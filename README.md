@@ -24,3 +24,15 @@ You can set the number of tiles per row (and column, because grid is always squa
 ## Gallery
 
 Every other game is randomized and is unique. here are some examples:
+
+![alt text](gallery/1.png)
+![alt text](gallery/2.png)
+![alt text](gallery/3.png)
+![alt text](gallery/4.png)
+![alt text](gallery/5.png)
+![alt text](gallery/6.png)
+![alt text](gallery/7.png)
+![alt text](gallery/8.png)
+![alt text](gallery/9.png)
+![alt text](gallery/10.png)
+![alt text](gallery/11.png)
