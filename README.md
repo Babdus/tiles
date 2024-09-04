@@ -25,10 +25,10 @@ You can set the number of tiles per row (and column, because the grid is always 
 
 ## Rules
 
-Start clicking on the tiles and finding matching shapes (the whole tile is composed of many overlayed shapes).
-You can try to go on without mistakes as long as you can.
-If you are on an empty tile, you can go anywhere without losing your current streak.
-The goal is to empty the whole grid.
+* Start clicking on the tiles and finding matching shapes (the whole tile is composed of many overlayed shapes).
+* You can try to go on without mistakes as long as you can.
+* If you are on an empty tile, you can go anywhere without losing your current streak.
+* The goal is to empty the whole grid.
 
 ## Gallery
 
